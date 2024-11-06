@@ -1,0 +1,4 @@
+secrets.txt
+
+# Ignores all txt files
+#*.txt
